@@ -70,7 +70,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>MainKt</mainClass>
+                                <mainClass>webserver.MainKt</mainClass>
                             </manifest>
                         </archive>
                         <descriptorRefs>
